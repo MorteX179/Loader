@@ -1,6 +1,6 @@
 local games =
 {
-[{9912491609}] "https://raw.githubusercontent.com/MorteX179/RobloxScripts/main/How_Far_Can_You_Fly.txt",
+[{9912491609}] = "https://raw.githubusercontent.com/MorteX179/RobloxScripts/main/How_Far_Can_You_Fly.txt",
 [{6753421299}] = "https://raw.githubusercontent.com/MorteX179/RobloxScripts/main/TEST.txt", 
 }
 
