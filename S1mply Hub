@@ -1,5 +1,5 @@
 if  game.PlaceId == 9912491609 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/MorteX179/RobloxScripts/main/How_Far_Can_You_Fly.txt"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MorteX179/RobloxScripts/main/How_Far_Can_You_Fly_2.txt"))()
     
     elseif game.PlaceId == 6753421299 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MorteX179/RobloxScripts/main/TEST.txt"))()
